@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: qgoda 0.1.1\n"
+"Report-Msgid-Bugs-To: Guido Flohr <guido.flohr@dontspam.me>\n"
+"POT-Creation-Date: 2023-05-16 20:36+0300\n"
+"PO-Revision-Date: 2023-05-16 20:37+0300\n"
+"Last-Translator: Guido Flohr <guido.flohr@donstspam.me>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+
+msgid "hello"
+msgstr "<b>Merhaba</b> bot'a hoş geldiniz"
+
+msgid "change_lang"
+msgstr "Dil seçildi."
+
+msgid "choose"
+msgstr "<b>Dil seçin. </b>"
+
+
+msgid "image_pdf"
+msgstr "📸 Bir resim gönder, ben onu PDF'ye dönüştüreyim"
+
+
+msgid "recive__pic_state"
+msgstr "Bot şu anda yalnızca 📸 Fotoğraf kabul ediyor!!!"
+
+
+msgid "recive_pic_agree"
+msgstr "✅ Fotoğraf alındı..."
+
+msgid "quality_pic_check"
+msgstr "🚫 Resim kalitesini kontrol edin !!!"
+
+
+msgid "pic_get_text_state"
+msgstr "İstediğiniz resmin metnini size anında vereceğim 📸..."
+
+msgid "send_pic"
+msgstr "📸 Bir resim gönder..."
+
+
+msgid "back"
+msgstr "Geri gitmek"
+
+msgid "excel_file"
+msgstr "📃 <b>Excel dosyasını gönder...</b>"
+
+msgid "recive_excel_state"
+msgstr "Bot şu anda yalnızca 📃 Belgeyi kabul ediyor!"
+
+msgid "recive_excel_agree"
+msgstr "👌 Dosya alındı"
+
+msgid "excel_errors"
+msgstr "🚫 <b>Yalnızca Excel .xlsx, .xls biçimindeki dosyalar kabul edilir</b>"
+
+
+
+msgid "again_recive_excel_state"
+msgstr "📃 Excel dosyasını gönder"
+
+
+msgid "excel_file_errors"
+msgstr "🙅‍♂️ Bir hata oluştu, dosyayla tekrar deneyin"
+
+
+msgid "word_file"
+msgstr "📁 Bir Word dosyası gönderin..."
+
+
+msgid "word_file_recive_state"
+msgstr "Bot şu anda yalnızca 📁 Belgeyi kabul ediyor!"
+
+
+msgid "word_file_recive_agree"
+msgstr "✅ Dosya alındı"
+
+msgid "word_file_errors"
+msgstr "🙅‍ ️Yalnızca word dosyaları kabul edilmektedir!!!"
+
+msgid "word_file_again"
+msgstr "📁 Bir Word dosyası gönder"
+
+
+msgid "word_file_change"
+msgstr "✏️ Word dosyası PDF'si değişiyor! Bir dakika bekle..."
+
+
+msgid "word_file_changed"
+msgstr "✏️Dosya değiştirildi!!!"
+
+
+msgid "word_file_errors_file"
+msgstr "🚫 Bir hata oluştu. Word dosyası şifrelenmiş olabilir!!!"
+
+msgid "pdf_get_image"
+msgstr "<b>📃 Bir PDF dosyası gönderin! Size PDF dosyasındaki resimleri getireceğim.</b>"
+
+
+msgid "pdf_get_image_state"
+msgstr "Bot şu anda yalnızca 📃 PDF'yi kabul ediyor!!!"
+
+msgid "pdf_get_image_recieve"
+msgstr "✅ Dosya alındı"
+
+
+msgid "pdf_get_image_errors"
+msgstr "🙅‍ ️Yalnızca PDF dosyaları kabul edilir!!!"
+
+msgid "pdf_get_image_again_state"
+msgstr "📁 Bir PDF dosyası gönder"
+
+
+
+msgid "pdf_get_image_file_errors"
+msgstr "<b>🚫Dosya boyutu büyük veya Dosyada bir sorun var!!</b>"
+
+
+
+
+msgid "pdf_get_image_file_sending"
+msgstr "✏️Resimler indiriliyor! Bir dakika bekle..."
+
+
+msgid "pdf_get_image_file_send"
+msgstr "📷 Fotoğraflar gönderildi"
+
+
+msgid "pdf_get_image_files_errors"
+msgstr "<b>🚫Dosya boyutu büyük veya Dosyada bir sorun var!!</b>"
+
+
+msgid "pdf_file"
+msgstr "📃 <b>Pdf dosyasını gönder...</b>"
+
+
+
+msgid "pdf_file_state"
+msgstr "Bot şu anda yalnızca 📃 Belgeyi kabul ediyor!"
+
+msgid "pdf_file_agree"
+msgstr "👌 Dosya alındı"
+
+msgid "pdf_files_errors"
+msgstr "🚫 <b>Yalnızca PDF dosyaları kabul edilir</b>"
+
+
+msgid "pdf_file_state_again"
+msgstr "📃 Bir pdf dosyası gönder"
+
+
+msgid "pdf_file_changing"
+msgstr "✏️PDF dosyası WORD olarak değişiyor! Bir dakika bekle..."
+
+
+msgid "pdf_file_changing_wait"
+msgstr "📃Dosya boyutuna bağlı olarak. Bekleme süresi 1 ila 5 dakika arasında olabilir..."
+
+
+msgid "pdf_file_changed"
+msgstr "✅ Dosya değiştirildi!!!"
+
+
+
+msgid "pdf_file_change_error"
+msgstr "🙅‍♂️ Bir hata oluştu, dosyayla tekrar deneyin"
+
+
+msgid "channel_membership"
+msgstr "Aşağıdaki kanallara abone olun:"
+
+
+msgid "channel_membership_enter"
+msgstr "Kanala abone oldunuz!"
+
+
+msgid "membership"
+msgstr "abone ol" 
+
+
+msgid "membership_close"
+msgstr "Kanala abone olmadınız."
+

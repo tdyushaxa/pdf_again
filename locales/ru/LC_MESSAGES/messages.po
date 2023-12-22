@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: qgoda 0.1.1\n"
+"Report-Msgid-Bugs-To: Guido Flohr <guido.flohr@dontspam.me>\n"
+"POT-Creation-Date: 2023-05-16 20:36+0300\n"
+"PO-Revision-Date: 2023-05-16 20:37+0300\n"
+"Last-Translator: Guido Flohr <guido.flohr@donstspam.me>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+
+msgid "hello"
+msgstr "<b>Привет</b>, добро пожаловать в бот"
+
+msgid "change_lang"
+msgstr "Выбран язык."
+
+
+msgid "choose"
+msgstr "Выберите язык."
+
+
+msgid "image_pdf"
+msgstr "📸 Пришлите картинку и я конвертирую ее в PDF"
+
+
+
+msgid "recive__pic_state"
+msgstr "В настоящее время бот принимает только 📸 изображений!!!"
+
+
+msgid "recive_pic_agree"
+msgstr "✅ Изображение получено..."
+
+
+msgid "quality_pic_check"
+msgstr "🚫 Проверьте качество картинки!!!"
+
+
+msgid "pic_get_text_state"
+msgstr "Текст любой картинки 📸 будет передан вам мгновенно..."
+
+msgid "send_pic"
+msgstr "📸 Отправьте фото..."
+
+msgid "back"
+msgstr "Возвращаться"
+
+msgid "excel_file"
+msgstr "📃 <b>Отправить файл Excel...</b>"
+
+msgid "recive_excel_state"
+msgstr "На данный момент бот принимает только 📃 Документ!"
+
+msgid "recive_excel_agree"
+msgstr "👌Файл получен"
+
+
+msgid "excel_errors"
+msgstr "🚫 <b>Принимаются только файлы формата Excel .xlsx, .xls</b>"
+
+
+
+msgid "again_recive_excel_state"
+msgstr "📃 Отправить файл Excel"
+
+
+
+msgid "excel_file_errors"
+msgstr "🙅‍♂️ Произошла ошибка, попробуйте еще раз с файлом"
+
+
+
+msgid "word_file"
+msgstr "📁 Отправьте файл Word..."
+
+
+msgid "word_file_recive_state"
+msgstr "На данный момент бот принимает только 📁 Документ!"
+
+
+msgid "word_file_recive_agree"
+msgstr "✅ Файл получен"
+
+
+msgid "word_file_errors"
+msgstr "🙅‍ ️Принимаются только текстовые файлы!!!"
+
+msgid "word_file_again"
+msgstr "📁 Отправьте файл Word"
+
+
+msgid "word_file_change"
+msgstr "✏️ Файл Word PDF меняется! Подождите минуту..."
+
+msgid "word_file_changed"
+msgstr "✏️Файл изменен!!!"
+
+msgid "word_file_errors_file"
+msgstr "🚫 Произошла ошибка. Файл Word может быть зашифрован!!!"
+
+msgid "pdf_get_image"
+msgstr "<b>📃 Отправьте PDF-файл! Я принесу вам фотографии из PDF-файла.</b>"
+
+
+msgid "pdf_get_image_state"
+msgstr "На данный момент бот принимает только 📃 PDF!!!"
+
+msgid "pdf_get_image_recieve"
+msgstr "✅ Файл получен"
+
+msgid "pdf_get_image_errors"
+msgstr "🙅‍ ️Принимаются только PDF файлы!!!"
+
+
+msgid "pdf_get_image_again_state"
+msgstr "📁 Отправьте PDF-файл"
+
+
+
+msgid "pdf_get_image_file_errors"
+msgstr "<b>🚫 Размер файла большой или с файлом возникла проблема!!</b>"
+
+
+
+
+
+msgid "pdf_get_image_file_sending"
+msgstr "✏️ Скачиваем картинки! Подождите минуту..."
+
+
+msgid "pdf_get_image_file_send"
+msgstr "📷 Фотографии отправлены"
+
+
+msgid "pdf_get_image_files_errors"
+msgstr "<b>🚫 Размер файла большой или с файлом возникла проблема!!</b>"
+
+msgid "pdf_file"
+msgstr "📃 <b>Отправить PDF-файл...</b>"
+
+
+msgid "pdf_file_state"
+msgstr "На данный момент бот принимает только 📃 Документ!"
+
+msgid "pdf_file_agree"
+msgstr "👌Файл получен"
+
+msgid "pdf_files_errors"
+msgstr "🚫 <b>Принимаются только файлы PDF</b>"
+
+
+msgid "pdf_file_state_again"
+msgstr "📃 Отправьте PDF-файл"
+
+
+msgid "pdf_file_changing"
+msgstr "✏️ PDF-файл меняется на WORD! Подождите минуту..."
+
+
+msgid "pdf_file_changing_wait"
+msgstr "📃 В зависимости от размера файла. Ожидание может занять от 1 до 5 минут..."
+
+
+msgid "pdf_file_changed"
+msgstr "✅ Файл изменен!!!"
+
+
+
+msgid "pdf_file_change_error"
+msgstr "🙅‍♂️ Произошла ошибка, попробуйте еще раз с файлом"
+
+
+msgid "channel_membership"
+msgstr "Подпишитесь на следующие каналы:"
+
+msgid "channel_membership_enter"
+msgstr "Вы подписались на канал!"
+
+msgid "membership"
+msgstr "подписаться"
+
+
+
+msgid "membership_close"
+msgstr "Вы не подписаны на канал."
+
+
+
+

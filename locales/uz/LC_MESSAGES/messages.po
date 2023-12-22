@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: qgoda 0.1.1\n"
+"Report-Msgid-Bugs-To: Guido Flohr <guido.flohr@dontspam.me>\n"
+"POT-Creation-Date: 2023-05-16 20:36+0300\n"
+"PO-Revision-Date: 2023-05-16 20:37+0300\n"
+"Last-Translator: Guido Flohr <guido.flohr@donstspam.me>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+
+msgid "hello"
+msgstr "<b>Assalomu aleykum</b> botga xush kelibsiz"
+
+msgid "change_lang"
+msgstr "Til tanladni."
+
+msgid "choose"
+msgstr "<b>Tilni tanlang. </b>"
+
+msgid "image_pdf"
+msgstr "📸 Rasm yuboring, men uni PDF formatiga aylantiraman"
+
+
+
+msgid "recive__pic_state"
+msgstr "Bot hozirgi holatida faqat 📸 rasm qabul qiladi!!!"
+
+msgid "recive_pic_agree"
+msgstr "✅ Rasm qabul qilindi..."
+
+
+msgid "quality_pic_check"
+msgstr "🚫 Rasm sifatini tekshiring !!!"
+
+
+msgid "pic_get_text_state"
+msgstr "Sizga istalgan rasmning 📸 textni bir zumda olib beraman..."
+
+msgid "send_pic"
+msgstr "📸 Rasm yuboring ..."
+
+
+msgid "back"
+msgstr "Ortga qaytish"
+
+
+msgid "excel_file"
+msgstr "📃 <b>Excel file yuboring...</b>"
+
+msgid "recive_excel_state"
+msgstr "Bot hozirgi holatida faqat 📃 Document qabul qiladi !"
+
+msgid "recive_excel_agree"
+msgstr "👌 File qabul qilindi"
+
+msgid "excel_errors"
+msgstr "🚫 <b>Faqat Excel .xlsx, .xls formatdagi filelar qabul qilinadi</b>"
+
+
+msgid "again_recive_excel_state"
+msgstr "📃 Excel file yuboring"
+
+
+msgid "excel_file_errors"
+msgstr "🙅‍♂️ Xatolik yuz berdi file bilan  qaytadan urunib ko'ring"
+
+
+msgid "word_file"
+msgstr "📁 Word file yuboring..."
+
+
+msgid "word_file_recive_state"
+msgstr "Bot hozirgi holatida faqat 📁 Document  qabul qiladi !"
+
+
+msgid "word_file_recive_agree"
+msgstr "✅ File qabul qilindi"
+
+
+msgid "word_file_errors"
+msgstr "🙅‍ ️Faqat word filelar qabul qilinadi!!!"
+
+
+msgid "word_file_again"
+msgstr "📁 Word file yuboring"
+
+
+msgid "word_file_change"
+msgstr "✏️ Word file PDF o'zgarmoqda! Biroz kuting..."
+
+msgid "word_file_changed"
+msgstr "✏️ File o'zgartirldi!!!"
+
+msgid "word_file_errors_file"
+msgstr "🚫 Xatolik yuz berdi. Word file shifrlangan bo'lishi mumkin!!!"
+
+
+msgid "pdf_get_image"
+msgstr "<b>📃 PDF file yuboring! Men sizga PDF filedan rasmlarni olib beraman.</b>"
+
+msgid "pdf_get_image_state"
+msgstr "Bot hozirgi holatida faqat 📃 PDF  qabul qiladi!!!"
+
+
+msgid "pdf_get_image_recieve"
+msgstr "✅ File qabul qilindi"
+
+
+msgid "pdf_get_image_errors"
+msgstr "🙅‍ ️Faqat PDF filelar qabul qilinadi!!!"
+
+msgid "pdf_get_image_again_state"
+msgstr "📁 PDF file yuboring"
+
+
+
+
+
+msgid "pdf_get_image_file_errors"
+msgstr "<b>🚫 FIle hajmi katta yoki File bilan muammo bor!!</b>"
+
+
+
+
+
+
+msgid "pdf_get_image_file_sending"
+msgstr "✏️ Rasmlarni yuklab olinmoqda! Biroz kuting..."
+
+msgid "pdf_get_image_file_send"
+msgstr "📷 Rasmlar jo'natildi"
+
+
+
+msgid "pdf_get_file_image_errors"
+msgstr "<b>🚫 FIle hajmi katta yoki File bilan muammo bor!!</b>"
+
+msgid "pdf_file"
+msgstr "📃 <b>Pdf file yuboring...</b>"
+
+msgid "pdf_file_state"
+msgstr "Bot hozirgi holatida faqat 📃 Document qabul qiladi !"
+
+
+msgid "pdf_file_agree"
+msgstr "👌 File qabul qilindi"
+
+msgid "pdf_files_errors"
+msgstr "🚫 <b>Faqat PDF filelar qabul qilinadi</b>"
+
+msgid "pdf_file_state_again"
+msgstr "📃 Pdf file yuboring"
+
+
+msgid "pdf_file_changing"
+msgstr "✏️ PDF file WORD o'zgarmoqda! Biroz kuting..."
+
+
+msgid "pdf_file_changing_wait"
+msgstr "📃 File Hajmiga qarab. Kutish 1 - 5 daqiqa oralig'ida bo'lishi mumkin..."
+
+
+msgid "pdf_file_changed"
+msgstr "✅ File o'zgartirldi!!!"
+
+
+msgid "pdf_file_change_error"
+msgstr "🙅‍♂️ Xatolik yuz berdi file bilan  qaytadan urunib ko'ring"
+
+msgid "channel_membership"
+msgstr "Quyidagi kanallarga obuna bo'ling:"
+
+msgid "channel_membership_enter"
+msgstr "kanaliga obuna bo'lgansiz!"
+
+msgid "membership"
+msgstr "Obuna bo'ling"
+
+msgid "membership_close"
+msgstr "kanaliga obuna bo'lmagansiz."
+
+
+
+
+
+
+
+
+
+
+
+
